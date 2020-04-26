@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607d8b</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="colorPrimaryLight">#cfd8dc</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorDivider">#bdbdbd</color>
+    <color name="iconColor">#ffffff</color>
+
+    <!--Onboarding colors-->
+    <color name="obColor1">#FFE12B</color>
+    <color name="obColor2">#ffffff</color>
+    <color name="greyColor">#808080</color>
+
+
+
+
+    <color name="black_transparent">#14000000</color>
+<!--    <color name="active_indicator">@android:color/white</color>-->
+<!--    <color name="inactive_indicator">#4D000000</color>-->
+
+
+
+</resources>

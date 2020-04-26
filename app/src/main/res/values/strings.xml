@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChefDelight</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Onboarding strings -->
+    <string name="ob_header_1">Discover</string>
+    <string name="ob_header_2">Create</string>
+    <string name="ob_header_3">Connect</string>
+
+    <string name="ob_desc_1">Expand your culinary skills with our great collection of healthy and delicious recipes.</string>
+    <string name="ob_desc_2">Cook and share your cooking discoveries by publishing your own recipes</string>
+    <string name="ob_desc_3">Review and spread the joy of delicious recipes with both new and old connections</string>
+</resources>
